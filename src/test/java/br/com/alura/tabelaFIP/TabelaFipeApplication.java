@@ -60,7 +60,7 @@ public class TabelaFipeApplication implements CommandLineRunner {
                     break;
 
                 default:
-                    System.out.println("Opção inválida! Escolha 1 ou 2.!!!!!reefdffasdfr!");
+                    System.out.println("Opção inválida! Escolha 1 ou 2.!!!!!!");
                     break;
             }
         }

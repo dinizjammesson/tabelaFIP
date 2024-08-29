@@ -66,9 +66,3 @@ public class TabelaFipeApplication implements CommandLineRunner {
         }
     }
 
-
-<<<<<<< HEAD
-/// esta merda
-=======
-
->>>>>>> 3d3e42a83943bf9b31b81c5a1957e74ff4b125d5
